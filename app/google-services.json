@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250963695937",
+    "firebase_url": "https://touchfications.firebaseio.com",
+    "project_id": "touchfications",
+    "storage_bucket": "touchfications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250963695937:android:421701d48414e2b9",
+        "android_client_info": {
+          "package_name": "tomerbu.edu.notificationsandtouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250963695937-cgdk7qogmrbche7a6bav697ki6508eci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tomerbu.edu.notificationsandtouch",
+            "certificate_hash": "11198345D110CEE92D23376EF1165711277A9126"
+          }
+        },
+        {
+          "client_id": "250963695937-3ubckbdkgajefigqh0604m3mvel9mee9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5889KsKYqMugwvD0hqzvp6ymc_dhg7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250963695937-3ubckbdkgajefigqh0604m3mvel9mee9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
